@@ -1,0 +1,6 @@
+projectKey=encryption-decryption-from-hyperskill
+serverUrl=https://sonarqube-server.com
+serverVersion=7.5.0.20543
+dashboardUrl=https://sonarqube-server.com/dashboard?id=encryption-decryption-from-hyperskill
+ceTaskId=AXB8FFREi_C6Ui417QBL
+ceTaskUrl=https://sonarqube-server.com/api/ce/task?id=AXB8FFREi_C6Ui417QBL
