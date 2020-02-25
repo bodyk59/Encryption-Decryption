@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Clock {
+
+        int hours = 12;
+        int minutes = 0;
+
+        // the next method here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2989
+status: Solved
+record: -1
